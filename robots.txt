@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-eh59au.cnkitawin.online/sitemap.xml
